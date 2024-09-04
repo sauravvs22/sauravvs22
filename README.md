@@ -1,13 +1,12 @@
 Hi there 👋
-I'm Saurav, a passionate data scientist and machine learning enthusiast with a knack for neural networks and deep learning. My journey in data science is paved with various projects showcasing my skills in turning data into insights and predictive models.
+I'm Saurav, a passionate data scientist and software development enthusiast with a knack for Data Structures and Algo, neural networks, and deep learning. My journey in data science has paved the way for various projects showcasing my skills in turning data into insights and predictive models.
 
 🔭 I’m currently working on A deep neural network for generative AI. In this, I have created CNN algorithms for style transfer. Also integrated UI tkinter for the window application
 
-🌱 I’m currently learning Advanced techniques in reinforcement learning and also learning Software development.
+🌱 I’m currently learning Advanced reinforcement learning techniques and Software development.
 
 👯 I’m looking to collaborate on Open-source machine learning projects or Kaggle competitions.
 
-🤔 I’m looking for help with how I can process the images faster with TensorFlow.
 
 📫 How to reach me: https://www.linkedin.com/in/saurav-sonawane-40a721169/
 
